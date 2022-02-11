@@ -1,5 +1,5 @@
 //Write a Java program to find out whether the given String is Palindrome or not.
-class Problem3 {
+class Problem4 {
     public static void main(String args[]) {
         int r, sum = 0, temp;
         // It is the number variable to be checked for palindrome
