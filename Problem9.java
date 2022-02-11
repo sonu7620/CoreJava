@@ -1,7 +1,7 @@
 //Write a Java program to remove elements from an ArrayList
 import java.util.ArrayList;
 import java.util.List;
-public class problem8 {
+public class problem9 {
     public static void main(String[] args)
     {
         List<Integer> al = new ArrayList<>();
